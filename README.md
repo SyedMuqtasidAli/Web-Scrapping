@@ -1,23 +1,24 @@
-# Appliances Power Consumption Scraper
+# ⚡ Appliances Power Consumption Scraper
 
 Welcome to the Appliances Power Consumption Scraper project! This project aims to scrape power consumption data for various appliances from a specified website and return the data in CSV format.
 
-## Table of Contents
+## 📚 Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
+- [License](#license)
 
-## Introduction
+## 📋 Introduction
 This project involves web scraping techniques to extract power consumption data for different appliances from a specified website. The data is then processed and returned in a structured CSV format, which can be used for further analysis or reporting.
 
-## Features
-- Scrapes power consumption data from a specified website.
-- Processes and organizes data into a CSV format.
-- Handles various appliances and their respective power consumption details.
+## ✨ Features
+- 🔍 Scrapes power consumption data from a specified website.
+- 📄 Processes and organizes data into a CSV format.
+- ⚙️ Handles various appliances and their respective power consumption details.
 
-## Installation
+## 🛠️ Installation
 To get started with the Appliances Power Consumption Scraper, follow these steps:
 
 1. Clone the repository:
@@ -35,7 +36,7 @@ To get started with the Appliances Power Consumption Scraper, follow these steps
     pip install -r requirements.txt
     ```
 
-## Usage
+## 🚀 Usage
 To use the scraper, follow these steps:
 
 1. Ensure you have the necessary dependencies installed (see Installation section).
@@ -47,14 +48,14 @@ To use the scraper, follow these steps:
 
 3. The script will scrape the data from the specified website and save it to a CSV file named `power_consumption_data.csv` in the project directory.
 
-## Contact
+## 📬 Contact
 For any questions or inquiries, please feel free to contact me via LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muqtasid-ali-91a0a623a/)
 
-## License
+## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Happy Scraping!
+Happy Scraping! 😊
